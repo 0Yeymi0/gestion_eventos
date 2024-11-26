@@ -11,9 +11,8 @@ La plataforma está diseñada para ser intuitiva y eficiente, adaptándose a las
 ## Tecnologías a Utilizar
 El proyecto se desarrollará utilizando las siguientes tecnologías:
 - **Backend**: Node.js con TypeScript.
-- **Base de Datos**: PostgreSQL.
-- **Diseño de Base de Datos**: Herramientas como DB Designer o Draw.io.
-- **Frontend** (opcional): React.js (si aplica).
+- **Base de Datos**: Mysql.
+- **Diseño de Base de Datos**: Lucidchart.
 - **Control de Versiones**: Git y GitHub.
 
 ## Entorno de Desarrollo
@@ -22,4 +21,4 @@ El proyecto se desarrollará utilizando las siguientes tecnologías:
 Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 - **Node.js** (versión 18 o superior)
 - **npm** (gestor de paquetes de Node.js)
-- **PostgreSQL** (versión 13 o superior)
+- **Mysql** (8.0.40)
