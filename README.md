@@ -23,6 +23,6 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 - **npm** (gestor de paquetes de Node.js)
 - **Mysql** (8.0.40)
 
-- ### Integrantes del Equipo
-- Nombre	       -Rol
--Yeymi Pareja    -Líder de Proyecto
+ ## Integrantes del Equipo
+- Nombre: Yeymi Pareja
+-Rol: Líder de Proyecto
