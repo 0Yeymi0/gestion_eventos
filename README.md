@@ -22,3 +22,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 - **Node.js** (versión 18 o superior)
 - **npm** (gestor de paquetes de Node.js)
 - **Mysql** (8.0.40)
+
+- ### Integrantes del Equipo
+- Nombre	       -Rol
+-Yeymi Pareja    -Líder de Proyecto
