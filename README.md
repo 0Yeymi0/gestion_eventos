@@ -25,4 +25,4 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
  ## Integrantes del Equipo
 - Nombre: Yeymi Pareja
--Rol: Líder de Proyecto
+- Rol: Líder de Proyecto
