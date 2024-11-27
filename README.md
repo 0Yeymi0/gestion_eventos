@@ -1,4 +1,4 @@
-# Gestión de Eventos
+# Sistema de Gestión de Eventos
 
 ## Descripción del Proyecto
 El objetivo de este proyecto es desarrollar una plataforma de gestión de eventos que permita a los usuarios:
