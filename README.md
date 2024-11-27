@@ -3,7 +3,7 @@
 ## Descripción del Proyecto
 El objetivo de este proyecto es desarrollar una plataforma de gestión de eventos que permita a los usuarios:
 - Crear y administrar eventos.
-- Registrar asistentes y gestionar su información.
+- Registrar usuarios y gestionar su información.
 - Consultar estadísticas relacionadas con los eventos.
 
 La plataforma está diseñada para ser intuitiva y eficiente, adaptándose a las necesidades de empresas y organizadores de eventos.
