@@ -24,5 +24,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 - **Mysql** (8.0.40)
 
  ## Integrantes del Equipo
-- Nombre: Yeymi Pareja
+- Nombre: Yeymi Pareja Yuto Androy
 - Rol: Líder de Proyecto
+- Nombre: Luis Enrique Garcia Inuma
+- Rol: Desarrollador
